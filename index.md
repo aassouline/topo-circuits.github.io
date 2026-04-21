@@ -24,25 +24,22 @@ We investigate:
 - Sound-driven electron transport in topological states
 - Electron flying qubit
 
-![AnyonBox logo](/assets/images/anyonbox_logo.png)
-
-We investigate:
-- Single anyon manipulation and exchange statistics
-- Topological protection and decoherence
-
 ---
 
 ## 📰 News
 
 - **April 2026** — Paper on quantum Hall entropy accepted in *PRX*
-- **Feb. 2026** — ERC AnyonBox project launched  
+- **March. 2026** — Fatima started her M2 internship on the anyon box project !  
+- **March. 2026** — Nathan started his M2 internship on the anyon box project !  
+- **Feb. 2026** — Mohammad started his PhD on sound-driven 2D quantum circuits !  
+- **Feb. 2026** — ERC ANYONBOX project launched  
 
 ---
 
 ## 📌 Open Positions
 
 We are looking for **interns, PhD students, and postdocs** in:
-- Quantum condensed matter  
+- Condensed matter physics
 - Nanophysics / quantum devices  
 
 👉 See [Join Us](join.md)
@@ -57,4 +54,4 @@ We collaborate with groups in quantum materials and theory.
 
 ## 📍 Location
 
-[Your Institution], [City, Country]
+Institut Néel - CNRS, Grenoble 38000, France
