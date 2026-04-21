@@ -3,7 +3,7 @@ title: Topological Circuit Group
 email:
 description: > # this means to ignore newlines until "baseurl:"
   Build eletrical circuits based on topological quantum matter
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "" 
 url: "" # the base hostname & protocol for your site
 
 # User setting
