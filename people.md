@@ -2,9 +2,9 @@
 
 ## Principal Investigator
 
-**Alexandre [Assouline]**  
+**Alexandre Assouline**  
 Researcher  
-- Topological quantum systems  
+- Topological quantum electronics  
 
 ---
 
