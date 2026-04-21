@@ -2,12 +2,12 @@
 
 ## Selected Publications
 
-- **A. Lastname**, et al.  
-  *Title of the paper*, PRL (2025)  
+- **A. Assouline**, et al.  
+  *Entropy of strongly correlated electrons in partially filled Landau level*, PRX (2026)  
   [DOI] | [arXiv]
 
-- **A. Lastname**, et al.  
-  *Another paper*, Nature Physics (2024)
+- **A. Assouline**, et al.  
+  *Energy gap of the even-denominator fractional quantum Hall state in bilayer graphene*, PRL (2024)
 
 ---
 
