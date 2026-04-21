@@ -1,42 +1,32 @@
 # Research
 
-## 1. Anyonic Excitations
+## 1. Anyon box project
 
-We study emergent quasiparticles with non-trivial exchange statistics in low-dimensional systems.
+We study emergent quasiparticles, known as anyons, with non-trivial exchange statistics in two-dimensional systems.
 
 ![Braiding concept](/assets/images/braid_figure.png)
 
 Key questions:
-- How to detect fractional statistics?
-- How robust are anyons to disorder?
+- Can we realize non-abelian anyons in bilayer graphene ?
+- How stable is an anyonic qubit ?
 
----
-
-## 2. AnyonBox Platform
-
-A controlled environment to:
-- Confine excitations
+The anyon box platform is a controlled environement to:
+- Confine single anyon
+- Probe their exchange statistics
+- Assess their quantum coherence
 - Perform braiding operations
-- Probe quantum coherence
 
 Approaches:
-- Nanostructured materials
-- Optical excitation (UV / visible)
-- Transport measurements
+- Quantum capacitance and transport
+- Noise measurements
 
 ---
 
-## 3. Optical Probes of Quantum Matter
+## 2. Sound-driven 2D quantum circuits
 
-We use light–matter interaction to access:
-- Electronic excitations (π–π*)
-- Local density of states
-- Nonequilibrium dynamics
-
+We use sound-waves to access:
+- Single electron transport
+- Directional transport
+- Flying qubit coherence
+  
 ---
-
-## 4. Quantum Device Engineering
-
-Design and fabrication of:
-- Mesoscopic structures
-- Hybrid quantum systems
