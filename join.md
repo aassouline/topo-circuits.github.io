@@ -10,21 +10,13 @@ We are building a team to explore **topological quantum systems and anyons**.
 Background:
 - Condensed matter physics
 - Quantum mechanics
-- Experimental or theoretical skills
+- Nanophysics
 
 ### Postdoctoral Researchers
 Experience in:
-- Quantum transport
+- Van der Waals materials
 - Nanofabrication
-- Optical spectroscopy
-
----
-
-## Why join?
-
-- ERC-funded project (AnyonBox)
-- Interdisciplinary environment
-- Strong international collaborations
+- Quantum transport
 
 ---
 
@@ -32,7 +24,6 @@ Experience in:
 
 Send:
 - CV
-- Motivation letter
 - Reference contacts
 
-📧 [your email]
+📧 alexandre.assouline@neel.cnrs.fr
