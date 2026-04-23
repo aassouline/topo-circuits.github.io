@@ -7,13 +7,13 @@ baseurl: "/topo-circuits.github.io"
 url: "https://aassouline.github.io" # the base hostname & protocol for your site
 
 # User setting
-owner: Alexandre Assouline
+owner: Topological Circuit Group
 email: alexandre.assouline@neel.cnrs.fr
 facebook_username:
 twitter_username:
 github_username: aassouline
 address:
-  - line: 25 av. des martyrs. 38000 Grenoble. France
+  - line: 25 av. des martyrs. 38042 Grenoble. France
   - line:
   # Feel free to add more lines here 
 telephone: +33 4 76 88 78 36
